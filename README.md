@@ -11,10 +11,12 @@ Communicate between the server with REST api, and webSocket
 
   # How to use 
 
-     ###  setup and run the server
-  $ git clone https://github.com/antainfernandez/fiveInARowGame.git
-  $ cd fiveInARowGame 
-  $ ./gradlew bootRun
-     
-     ### setup clients			
-        - [5-in-a-Row - Clinet](https://github.com/antainfernandez/fiveInARowGameClient)
+   +Setup and run the server
+    
+    $ git clone https://github.com/antainfernandez/fiveInARowGame.git
+    $ cd fiveInARowGame 
+    $ ./gradlew bootRun
+   port is 8081 in case port 8080 already take it
+ #Setup clients	
+   		
+   - [5-in-a-Row - Client](https://github.com/antainfernandez/fiveInARowGameClient)
